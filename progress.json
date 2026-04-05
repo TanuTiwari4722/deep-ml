@@ -1,0 +1,57 @@
+{
+  "generated_at": "2026-10-23T17:56:07.602Z",
+  "items": {
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2026-04-05T13:05:36.313Z",
+      "last_pushed_at": "2026-04-05T13:05:36.313Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:2": {
+      "kind": "problem",
+      "id": "2",
+      "title": "Transpose of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/2",
+      "path": "problems/0002-transpose-of-a-matrix",
+      "first_solved_at": "2026-04-05T13:13:43.827Z",
+      "last_pushed_at": "2026-04-05T13:13:43.827Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2026-04-05T13:43:44.504Z",
+      "last_pushed_at": "2026-04-05T13:43:44.504Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:15": {
+      "kind": "problem",
+      "id": "15",
+      "title": "Linear Regression Using Gradient Descent",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/15",
+      "path": "problems/0015-linear-regression-using-gradient-descent",
+      "first_solved_at": "2026-04-05T14:00:09.802Z",
+      "last_pushed_at": "2026-04-05T14:00:09.802Z",
+      "language": "python",
+      "lines": 27
+    }
+  }
+}
