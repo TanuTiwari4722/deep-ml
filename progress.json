@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T17:56:15.660Z",
+  "generated_at": "2026-10-23T17:56:17.799Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -208,6 +208,58 @@
       "last_pushed_at": "2026-04-12T16:21:05.447Z",
       "language": "python",
       "lines": 7
+    },
+    "problem:64": {
+      "kind": "problem",
+      "id": "64",
+      "title": "Implement Gini Impurity Calculation for a Set of Classes",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/64",
+      "path": "problems/0064-implement-gini-impurity-calculation-for-a-set-of-classes",
+      "first_solved_at": "2026-04-13T05:20:26.536Z",
+      "last_pushed_at": "2026-04-13T05:20:26.536Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:69": {
+      "kind": "problem",
+      "id": "69",
+      "title": "Calculate R-squared for Regression Analysis",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/69",
+      "path": "problems/0069-calculate-r-squared-for-regression-analysis",
+      "first_solved_at": "2026-04-13T16:35:17.316Z",
+      "last_pushed_at": "2026-04-13T16:35:17.316Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:72": {
+      "kind": "problem",
+      "id": "72",
+      "title": "Calculate Jaccard Index for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/72",
+      "path": "problems/0072-calculate-jaccard-index-for-binary-classification",
+      "first_solved_at": "2026-04-13T17:45:09.685Z",
+      "last_pushed_at": "2026-04-13T17:45:09.685Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:73": {
+      "kind": "problem",
+      "id": "73",
+      "title": "Calculate Dice Score for Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/73",
+      "path": "problems/0073-calculate-dice-score-for-classification",
+      "first_solved_at": "2026-04-13T18:09:13.068Z",
+      "last_pushed_at": "2026-04-13T18:09:13.068Z",
+      "language": "python",
+      "lines": 11
     }
   }
 }
