@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T17:56:17.799Z",
+  "generated_at": "2026-10-23T17:56:19.584Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -260,6 +260,110 @@
       "last_pushed_at": "2026-04-13T18:09:13.068Z",
       "language": "python",
       "lines": 11
+    },
+    "problem:75": {
+      "kind": "problem",
+      "id": "75",
+      "title": "Generate a Confusion Matrix for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/75",
+      "path": "problems/0075-generate-a-confusion-matrix-for-binary-classification",
+      "first_solved_at": "2026-04-18T06:13:53.310Z",
+      "last_pushed_at": "2026-04-18T06:13:53.310Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:86": {
+      "kind": "problem",
+      "id": "86",
+      "title": "Detect Overfitting or Underfitting",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/86",
+      "path": "problems/0086-detect-overfitting-or-underfitting",
+      "first_solved_at": "2026-04-18T06:19:36.843Z",
+      "last_pushed_at": "2026-04-18T06:19:36.843Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:91": {
+      "kind": "problem",
+      "id": "91",
+      "title": "Calculate F1 Score from Predicted and True Labels",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/91",
+      "path": "problems/0091-calculate-f1-score-from-predicted-and-true-labels",
+      "first_solved_at": "2026-04-18T06:40:56.335Z",
+      "last_pushed_at": "2026-04-18T06:40:56.335Z",
+      "language": "python",
+      "lines": 30
+    },
+    "problem:93": {
+      "kind": "problem",
+      "id": "93",
+      "title": "Calculate Mean Absolute Error (MAE)",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/93",
+      "path": "problems/0093-calculate-mean-absolute-error-mae",
+      "first_solved_at": "2026-04-18T06:51:46.724Z",
+      "last_pushed_at": "2026-04-18T06:51:46.724Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:104": {
+      "kind": "problem",
+      "id": "104",
+      "title": "Binary Classification with Logistic Regression",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/104",
+      "path": "problems/0104-binary-classification-with-logistic-regression",
+      "first_solved_at": "2026-04-18T07:07:37.832Z",
+      "last_pushed_at": "2026-04-18T07:07:37.832Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:108": {
+      "kind": "problem",
+      "id": "108",
+      "title": "Measure Disorder in Apple Colors",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/108",
+      "path": "problems/0108-measure-disorder-in-apple-colors",
+      "first_solved_at": "2026-04-18T07:24:38.189Z",
+      "last_pushed_at": "2026-04-18T07:24:38.189Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2026-04-18T07:33:32.878Z",
+      "last_pushed_at": "2026-04-18T07:33:32.878Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:135": {
+      "kind": "problem",
+      "id": "135",
+      "title": "Implement Early Stopping Based on Validation Loss",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/135",
+      "path": "problems/0135-implement-early-stopping-based-on-validation-loss",
+      "first_solved_at": "2026-04-18T17:15:10.002Z",
+      "last_pushed_at": "2026-04-18T17:15:10.002Z",
+      "language": "python",
+      "lines": 23
     }
   }
 }
