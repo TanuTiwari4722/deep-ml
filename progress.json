@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T17:56:19.584Z",
+  "generated_at": "2026-10-23T17:56:21.974Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -364,6 +364,110 @@
       "last_pushed_at": "2026-04-18T17:15:10.002Z",
       "language": "python",
       "lines": 23
+    },
+    "problem:141": {
+      "kind": "problem",
+      "id": "141",
+      "title": "Shift and Scale Array to Target Range",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/141",
+      "path": "problems/0141-shift-and-scale-array-to-target-range",
+      "first_solved_at": "2026-04-19T10:26:38.483Z",
+      "last_pushed_at": "2026-04-19T10:26:38.483Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:153": {
+      "kind": "problem",
+      "id": "153",
+      "title": "StepLR Learning Rate Scheduler",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/153",
+      "path": "problems/0153-steplr-learning-rate-scheduler",
+      "first_solved_at": "2026-04-19T10:38:31.301Z",
+      "last_pushed_at": "2026-04-19T10:38:31.301Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:154": {
+      "kind": "problem",
+      "id": "154",
+      "title": "ExponentialLR Learning Rate Scheduler",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/154",
+      "path": "problems/0154-exponentiallr-learning-rate-scheduler",
+      "first_solved_at": "2026-04-19T10:41:37.520Z",
+      "last_pushed_at": "2026-04-19T10:41:37.520Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:188": {
+      "kind": "problem",
+      "id": "188",
+      "title": "Gradient Checkpointing",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/188",
+      "path": "problems/0188-gradient-checkpointing",
+      "first_solved_at": "2026-04-19T12:30:13.972Z",
+      "last_pushed_at": "2026-04-19T12:30:13.972Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:199": {
+      "kind": "problem",
+      "id": "199",
+      "title": "Early Stopping Based on Validation Loss Plateau",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/199",
+      "path": "problems/0199-early-stopping-based-on-validation-loss-plateau",
+      "first_solved_at": "2026-04-19T12:44:54.026Z",
+      "last_pushed_at": "2026-04-19T12:44:54.026Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:281": {
+      "kind": "problem",
+      "id": "281",
+      "title": "Implement Polynomial Kernel Function",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/281",
+      "path": "problems/0281-implement-polynomial-kernel-function",
+      "first_solved_at": "2026-04-19T12:49:10.494Z",
+      "last_pushed_at": "2026-04-19T12:49:10.494Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:282": {
+      "kind": "problem",
+      "id": "282",
+      "title": "Calculate SVM Margin Width",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/282",
+      "path": "problems/0282-calculate-svm-margin-width",
+      "first_solved_at": "2026-04-19T12:53:38.893Z",
+      "last_pushed_at": "2026-04-19T12:53:38.893Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:283": {
+      "kind": "problem",
+      "id": "283",
+      "title": "Implement Hinge Loss for SVM",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/283",
+      "path": "problems/0283-implement-hinge-loss-for-svm",
+      "first_solved_at": "2026-04-19T15:04:19.092Z",
+      "last_pushed_at": "2026-04-19T15:04:19.092Z",
+      "language": "python",
+      "lines": 13
     }
   }
 }
