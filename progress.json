@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T17:56:21.974Z",
+  "generated_at": "2026-10-23T17:56:24.039Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -468,6 +468,32 @@
       "last_pushed_at": "2026-04-19T15:04:19.092Z",
       "language": "python",
       "lines": 13
+    },
+    "problem:305": {
+      "kind": "problem",
+      "id": "305",
+      "title": "Implement Hard Voting Classifier",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/305",
+      "path": "problems/0305-implement-hard-voting-classifier",
+      "first_solved_at": "2026-04-21T17:03:43.352Z",
+      "last_pushed_at": "2026-04-21T17:03:43.352Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:308": {
+      "kind": "problem",
+      "id": "308",
+      "title": "Gradient Direction and Magnitude",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/308",
+      "path": "problems/0308-gradient-direction-and-magnitude",
+      "first_solved_at": "2026-04-21T17:20:29.277Z",
+      "last_pushed_at": "2026-04-21T17:20:29.277Z",
+      "language": "python",
+      "lines": 30
     }
   }
 }
