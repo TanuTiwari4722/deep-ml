@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T17:56:24.039Z",
+  "generated_at": "2026-10-23T17:56:26.100Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -494,6 +494,45 @@
       "last_pushed_at": "2026-04-21T17:20:29.277Z",
       "language": "python",
       "lines": 30
+    },
+    "problem:310": {
+      "kind": "problem",
+      "id": "310",
+      "title": "Taylor Series Approximation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/310",
+      "path": "problems/0310-taylor-series-approximation",
+      "first_solved_at": "2026-04-22T17:19:41.665Z",
+      "last_pushed_at": "2026-04-22T17:19:41.665Z",
+      "language": "python",
+      "lines": 42
+    },
+    "problem:377": {
+      "kind": "problem",
+      "id": "377",
+      "title": "Linear Learning Rate Decay",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/377",
+      "path": "problems/0377-linear-learning-rate-decay",
+      "first_solved_at": "2026-04-22T17:55:17.479Z",
+      "last_pushed_at": "2026-04-22T17:55:17.479Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:411": {
+      "kind": "problem",
+      "id": "411",
+      "title": "Compute TTFT ITL and TPS from a Token Timestamp Stream",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/411",
+      "path": "problems/0411-compute-ttft-itl-and-tps-from-a-token-timestamp-stream",
+      "first_solved_at": "2026-04-22T18:43:02.569Z",
+      "last_pushed_at": "2026-04-22T18:43:02.569Z",
+      "language": "python",
+      "lines": 41
     }
   }
 }
