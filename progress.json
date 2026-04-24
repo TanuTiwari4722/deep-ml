@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T17:56:26.100Z",
+  "generated_at": "2026-10-23T17:56:28.282Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -533,6 +533,71 @@
       "last_pushed_at": "2026-04-22T18:43:02.569Z",
       "language": "python",
       "lines": 41
+    },
+    "problem:434": {
+      "kind": "problem",
+      "id": "434",
+      "title": "Prefix Cache Hit Rate Calculator",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/434",
+      "path": "problems/0434-prefix-cache-hit-rate-calculator",
+      "first_solved_at": "2026-04-24T09:16:12.316Z",
+      "last_pushed_at": "2026-04-24T09:16:12.316Z",
+      "language": "python",
+      "lines": 34
+    },
+    "problem:24": {
+      "kind": "problem",
+      "id": "24",
+      "title": "Single Neuron",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/24",
+      "path": "problems/0024-single-neuron",
+      "first_solved_at": "2026-04-24T09:36:59.215Z",
+      "last_pushed_at": "2026-04-24T09:36:59.215Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:39": {
+      "kind": "problem",
+      "id": "39",
+      "title": "Implementation of Log Softmax Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/39",
+      "path": "problems/0039-implementation-of-log-softmax-function",
+      "first_solved_at": "2026-04-24T10:11:34.608Z",
+      "last_pushed_at": "2026-04-24T10:11:34.608Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:42": {
+      "kind": "problem",
+      "id": "42",
+      "title": "Implement ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/42",
+      "path": "problems/0042-implement-relu-activation-function",
+      "first_solved_at": "2026-04-24T10:16:35.003Z",
+      "last_pushed_at": "2026-04-24T10:16:35.003Z",
+      "language": "python",
+      "lines": 4
+    },
+    "problem:44": {
+      "kind": "problem",
+      "id": "44",
+      "title": "Leaky ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/44",
+      "path": "problems/0044-leaky-relu-activation-function",
+      "first_solved_at": "2026-04-24T10:25:15.444Z",
+      "last_pushed_at": "2026-04-24T10:25:15.444Z",
+      "language": "python",
+      "lines": 4
     }
   }
 }

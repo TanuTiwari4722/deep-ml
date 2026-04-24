@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**41** solved · 41 problems · 0 labs · 0 math
+**46** solved · 46 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -38,7 +38,10 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Polynomial Kernel Function](https://www.deep-ml.com/problems/281) | easy | 2026-04-19 | [solution](problems/0281-implement-polynomial-kernel-function) |
 | [Implement Precision Metric](https://www.deep-ml.com/problems/46) | easy | 2026-04-12 | [solution](problems/0046-implement-precision-metric) |
 | [Implement Recall Metric in Binary Classification](https://www.deep-ml.com/problems/52) | easy | 2026-04-12 | [solution](problems/0052-implement-recall-metric-in-binary-classification) |
+| [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-04-24 | [solution](problems/0042-implement-relu-activation-function) |
 | [Implement Ridge Regression Loss Function](https://www.deep-ml.com/problems/43) | easy | 2026-04-12 | [solution](problems/0043-implement-ridge-regression-loss-function) |
+| [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2026-04-24 | [solution](problems/0039-implementation-of-log-softmax-function) |
+| [Leaky ReLU Activation Function](https://www.deep-ml.com/problems/44) | easy | 2026-04-24 | [solution](problems/0044-leaky-relu-activation-function) |
 | [Linear Kernel Function](https://www.deep-ml.com/problems/45) | easy | 2026-04-12 | [solution](problems/0045-linear-kernel-function) |
 | [Linear Learning Rate Decay](https://www.deep-ml.com/problems/377) | easy | 2026-04-22 | [solution](problems/0377-linear-learning-rate-decay) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-04-05 | [solution](problems/0015-linear-regression-using-gradient-descent) |
@@ -46,9 +49,11 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-04-05 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Measure Disorder in Apple Colors](https://www.deep-ml.com/problems/108) | easy | 2026-04-18 | [solution](problems/0108-measure-disorder-in-apple-colors) |
 | [One-Hot Encoding of Nominal Values](https://www.deep-ml.com/problems/34) | easy | 2026-04-08 | [solution](problems/0034-one-hot-encoding-of-nominal-values) |
+| [Prefix Cache Hit Rate Calculator](https://www.deep-ml.com/problems/434) | easy | 2026-04-24 | [solution](problems/0434-prefix-cache-hit-rate-calculator) |
 | [Random Shuffle of Dataset](https://www.deep-ml.com/problems/29) | easy | 2026-04-07 | [solution](problems/0029-random-shuffle-of-dataset) |
 | [Shift and Scale Array to Target Range](https://www.deep-ml.com/problems/141) | easy | 2026-04-19 | [solution](problems/0141-shift-and-scale-array-to-target-range) |
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-04-12 | [solution](problems/0022-sigmoid-activation-function-understanding) |
+| [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-04-24 | [solution](problems/0024-single-neuron) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-04-18 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [StepLR Learning Rate Scheduler](https://www.deep-ml.com/problems/153) | easy | 2026-04-19 | [solution](problems/0153-steplr-learning-rate-scheduler) |
 | [Taylor Series Approximation](https://www.deep-ml.com/problems/310) | easy | 2026-04-22 | [solution](problems/0310-taylor-series-approximation) |
