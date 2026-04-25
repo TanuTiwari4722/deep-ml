@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**46** solved · 46 problems · 0 labs · 0 math
+**55** solved · 55 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -30,9 +30,11 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Generate a Confusion Matrix for Binary Classification](https://www.deep-ml.com/problems/75) | easy | 2026-04-18 | [solution](problems/0075-generate-a-confusion-matrix-for-binary-classification) |
 | [Gradient Checkpointing](https://www.deep-ml.com/problems/188) | easy | 2026-04-19 | [solution](problems/0188-gradient-checkpointing) |
 | [Gradient Direction and Magnitude](https://www.deep-ml.com/problems/308) | easy | 2026-04-21 | [solution](problems/0308-gradient-direction-and-magnitude) |
+| [Implement a Simple Residual Block with Shortcut Connection](https://www.deep-ml.com/problems/113) | easy | 2026-04-25 | [solution](problems/0113-implement-a-simple-residual-block-with-shortcut-connection) |
 | [Implement Early Stopping Based on Validation Loss](https://www.deep-ml.com/problems/135) | easy | 2026-04-18 | [solution](problems/0135-implement-early-stopping-based-on-validation-loss) |
 | [Implement F-Score Calculation for Binary Classification](https://www.deep-ml.com/problems/61) | easy | 2026-04-12 | [solution](problems/0061-implement-f-score-calculation-for-binary-classification) |
 | [Implement Gini Impurity Calculation for a Set of Classes](https://www.deep-ml.com/problems/64) | easy | 2026-04-13 | [solution](problems/0064-implement-gini-impurity-calculation-for-a-set-of-classes) |
+| [Implement Global Average Pooling](https://www.deep-ml.com/problems/114) | easy | 2026-04-25 | [solution](problems/0114-implement-global-average-pooling) |
 | [Implement Hard Voting Classifier](https://www.deep-ml.com/problems/305) | easy | 2026-04-21 | [solution](problems/0305-implement-hard-voting-classifier) |
 | [Implement Hinge Loss for SVM](https://www.deep-ml.com/problems/283) | easy | 2026-04-19 | [solution](problems/0283-implement-hinge-loss-for-svm) |
 | [Implement Polynomial Kernel Function](https://www.deep-ml.com/problems/281) | easy | 2026-04-19 | [solution](problems/0281-implement-polynomial-kernel-function) |
@@ -40,7 +42,14 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Recall Metric in Binary Classification](https://www.deep-ml.com/problems/52) | easy | 2026-04-12 | [solution](problems/0052-implement-recall-metric-in-binary-classification) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-04-24 | [solution](problems/0042-implement-relu-activation-function) |
 | [Implement Ridge Regression Loss Function](https://www.deep-ml.com/problems/43) | easy | 2026-04-12 | [solution](problems/0043-implement-ridge-regression-loss-function) |
+| [Implement the ELU Activation Function](https://www.deep-ml.com/problems/97) | easy | 2026-04-25 | [solution](problems/0097-implement-the-elu-activation-function) |
+| [Implement the Hard Sigmoid Activation Function](https://www.deep-ml.com/problems/96) | easy | 2026-04-25 | [solution](problems/0096-implement-the-hard-sigmoid-activation-function) |
+| [Implement the SELU Activation Function](https://www.deep-ml.com/problems/103) | easy | 2026-04-25 | [solution](problems/0103-implement-the-selu-activation-function) |
+| [Implement the Softplus Activation Function](https://www.deep-ml.com/problems/99) | easy | 2026-04-25 | [solution](problems/0099-implement-the-softplus-activation-function) |
+| [Implement the Softsign Activation Function](https://www.deep-ml.com/problems/100) | easy | 2026-04-25 | [solution](problems/0100-implement-the-softsign-activation-function) |
+| [Implement the Swish Activation Function](https://www.deep-ml.com/problems/102) | easy | 2026-04-25 | [solution](problems/0102-implement-the-swish-activation-function) |
 | [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2026-04-24 | [solution](problems/0039-implementation-of-log-softmax-function) |
+| [KL Divergence Between Two Normal Distributions](https://www.deep-ml.com/problems/56) | easy | 2026-04-25 | [solution](problems/0056-kl-divergence-between-two-normal-distributions) |
 | [Leaky ReLU Activation Function](https://www.deep-ml.com/problems/44) | easy | 2026-04-24 | [solution](problems/0044-leaky-relu-activation-function) |
 | [Linear Kernel Function](https://www.deep-ml.com/problems/45) | easy | 2026-04-12 | [solution](problems/0045-linear-kernel-function) |
 | [Linear Learning Rate Decay](https://www.deep-ml.com/problems/377) | easy | 2026-04-22 | [solution](problems/0377-linear-learning-rate-decay) |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T17:56:28.282Z",
+  "generated_at": "2026-10-23T17:56:30.291Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -598,6 +598,123 @@
       "last_pushed_at": "2026-04-24T10:25:15.444Z",
       "language": "python",
       "lines": 4
+    },
+    "problem:56": {
+      "kind": "problem",
+      "id": "56",
+      "title": "KL Divergence Between Two Normal Distributions",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/56",
+      "path": "problems/0056-kl-divergence-between-two-normal-distributions",
+      "first_solved_at": "2026-04-25T13:29:22.922Z",
+      "last_pushed_at": "2026-04-25T13:29:22.922Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:96": {
+      "kind": "problem",
+      "id": "96",
+      "title": "Implement the Hard Sigmoid Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/96",
+      "path": "problems/0096-implement-the-hard-sigmoid-activation-function",
+      "first_solved_at": "2026-04-25T13:33:41.787Z",
+      "last_pushed_at": "2026-04-25T13:33:41.787Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:97": {
+      "kind": "problem",
+      "id": "97",
+      "title": "Implement the ELU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/97",
+      "path": "problems/0097-implement-the-elu-activation-function",
+      "first_solved_at": "2026-04-25T13:38:59.281Z",
+      "last_pushed_at": "2026-04-25T13:38:59.281Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:99": {
+      "kind": "problem",
+      "id": "99",
+      "title": "Implement the Softplus Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/99",
+      "path": "problems/0099-implement-the-softplus-activation-function",
+      "first_solved_at": "2026-04-25T13:43:30.764Z",
+      "last_pushed_at": "2026-04-25T13:43:30.764Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:100": {
+      "kind": "problem",
+      "id": "100",
+      "title": "Implement the Softsign Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/100",
+      "path": "problems/0100-implement-the-softsign-activation-function",
+      "first_solved_at": "2026-04-25T13:45:24.718Z",
+      "last_pushed_at": "2026-04-25T13:45:24.718Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:102": {
+      "kind": "problem",
+      "id": "102",
+      "title": "Implement the Swish Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/102",
+      "path": "problems/0102-implement-the-swish-activation-function",
+      "first_solved_at": "2026-04-25T15:28:14.609Z",
+      "last_pushed_at": "2026-04-25T15:28:14.609Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:103": {
+      "kind": "problem",
+      "id": "103",
+      "title": "Implement the SELU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/103",
+      "path": "problems/0103-implement-the-selu-activation-function",
+      "first_solved_at": "2026-04-25T15:53:51.800Z",
+      "last_pushed_at": "2026-04-25T15:53:51.800Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:113": {
+      "kind": "problem",
+      "id": "113",
+      "title": "Implement a Simple Residual Block with Shortcut Connection",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/113",
+      "path": "problems/0113-implement-a-simple-residual-block-with-shortcut-connection",
+      "first_solved_at": "2026-04-25T16:06:40.003Z",
+      "last_pushed_at": "2026-04-25T16:06:40.003Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:114": {
+      "kind": "problem",
+      "id": "114",
+      "title": "Implement Global Average Pooling",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/114",
+      "path": "problems/0114-implement-global-average-pooling",
+      "first_solved_at": "2026-04-25T18:30:22.166Z",
+      "last_pushed_at": "2026-04-25T18:30:22.166Z",
+      "language": "python",
+      "lines": 5
     }
   }
 }
