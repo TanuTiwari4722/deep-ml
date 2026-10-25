@@ -11,4 +11,4 @@ def solve_jacobi(A: np.ndarray, b: np.ndarray, n: int) -> list:
 					total += A[i][j] *x[j]
 			new_x[i] = (b[i] - total) / A[i][i]
 		x = new_x
-	return x
+	return [round(value, 4) for value in x]
