@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T09:58:29.940Z",
+  "generated_at": "2026-11-01T14:55:15.900Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -908,6 +908,19 @@
       "path": "problems/0025-single-neuron-with-backpropagation",
       "first_solved_at": "2026-11-01T09:58:29.337Z",
       "last_pushed_at": "2026-11-01T09:58:29.337Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:77": {
+      "kind": "problem",
+      "id": "77",
+      "title": "Calculate Performance Metrics for a Classification Model",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/77",
+      "path": "problems/0077-calculate-performance-metrics-for-a-classification-model",
+      "first_solved_at": "2026-11-01T14:55:14.875Z",
+      "last_pushed_at": "2026-11-01T14:55:14.875Z",
       "language": "python",
       "lines": 24
     }
